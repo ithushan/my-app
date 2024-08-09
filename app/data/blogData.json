@@ -1,0 +1,24 @@
+[
+    {
+      "id": 1,
+      "title": "Blog heading one!",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "buttonText": "Read More",
+      "image": "/images/nextjs-intro.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Blog heading 2!",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "buttonText": "Read More",
+      "image": "/images/tailwind-css.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Blog heading III!",
+      "description": "ALorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "buttonText": "Read More",
+      "image": "/images/vercel-deploy.jpg"
+    }
+  ]
+  
